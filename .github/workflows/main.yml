@@ -3,7 +3,7 @@ on: [push]
 jobs:
   build:
     name: New Message
-    runs-on: discussions
+    runs-on: fizzi/test-repo
     steps:
     - uses: actions/checkout@master
     - name: send custom message with args

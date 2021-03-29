@@ -1,10 +1,9 @@
 name: telegram message
 on: [push]
 jobs:
-
   build:
     name: New Message
-    runs-on: ubuntu-latest
+    runs-on: discussions
     steps:
     - uses: actions/checkout@master
     - name: send custom message with args

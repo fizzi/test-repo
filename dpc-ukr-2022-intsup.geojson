@@ -11,11 +11,11 @@
         ]
       },
       "properties": {
-        "country": "Moldavia",
-        "region-province": "",
-        "municipality": "Chisinau",
-        "2022-03-14": "",
-        "2022-03-16": ""
+        "nazione": "Moldavia",
+        "regione/provincia": "",
+        "comune": "Chisinau",
+        "14/03/2022": "",
+        "16/03/2022": ""
       }
     },
     {
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "country": "Ucraina",
-        "region-province": "Zakarpattia Oblast",
-        "municipality": "Chop",
-        "2022-03-31": ""
+        "nazione": "Ucraina",
+        "regione/provincia": "Zakarpattia Oblast",
+        "comune": "Chop",
+        "31/03/2022": ""
       }
     },
     {
@@ -44,10 +44,10 @@
         ]
       },
       "properties": {
-        "country": "Moldavia",
-        "region-province": "Cantemir District",
-        "municipality": "Leuseni",
-        "2022-03-25": ""
+        "nazione": "Moldavia",
+        "regione/provincia": "Cantemir District",
+        "comune": "Leuseni",
+        "25/03/2022": ""
       }
     },
     {
@@ -60,10 +60,10 @@
         ]
       },
       "properties": {
-        "country": "Slovacchia",
-        "region-province": "Košice Region",
-        "municipality": "Michalovce",
-        "2022-03-19": ""
+        "nazione": "Slovacchia",
+        "regione/provincia": "Košice Region",
+        "comune": "Michalovce",
+        "19/03/2022": ""
       }
     },
     {
@@ -76,11 +76,11 @@
         ]
       },
       "properties": {
-        "country": "Polonia",
-        "region-province": "Lublin County",
-        "municipality": "Niemce",
-        "2022-03-11": "",
-        "2022-03-14": ""
+        "nazione": "Polonia",
+        "regione/provincia": "Lublin County",
+        "comune": "Niemce",
+        "11/03/2022": "",
+        "14/03/2022": ""
       }
     },
     {
@@ -93,10 +93,10 @@
         ]
       },
       "properties": {
-        "country": "Polonia",
-        "region-province": "Legnica",
-        "municipality": "Prochowice",
-        "2022-03-03": ""
+        "nazione": "Polonia",
+        "regione/provincia": "Legnica",
+        "comune": "Prochowice",
+        "03/03/2022": ""
       }
     },
     {
@@ -109,11 +109,11 @@
         ]
       },
       "properties": {
-        "country": "Romania",
-        "region-province": "Suceava County",
-        "municipality": "Siret",
-        "2022-03-14": "",
-        "2022-03-20": ""
+        "nazione": "Romania",
+        "regione/provincia": "Suceava County",
+        "comune": "Siret",
+        "14/03/2022": "",
+        "20/03/2022": ""
       }
     },
     {
@@ -126,13 +126,13 @@
         ]
       },
       "properties": {
-        "country": "Romania",
-        "region-province": "Suceava County",
-        "municipality": "Suceava",
-        "2022-03-09": "",
-        "2022-03-14": "",
-        "2022-03-14": "",
-        "2022-03-23": ""
+        "nazione": "Romania",
+        "regione/provincia": "Suceava County",
+        "comune": "Suceava",
+        "09/03/2022": "",
+        "14/03/2022": "",
+        "14/03/2022": "",
+        "23/03/2022": ""
       }
     }
   ]

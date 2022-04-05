@@ -1,0 +1,13 @@
+{
+  "type": "first",
+  "date": "2022-04-05",
+  "name": "Emergenza Ucraina - Mappa Trasporti",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/fizzi/test-repo/main/punti.json",
+    "html_descrition": "<p>Emergenza Ucraina - Mappa dei Trasporti, Martedì 5 aprile 2022</p>",
+    "attachment": [
+    ]
+  }
+}

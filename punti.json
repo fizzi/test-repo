@@ -1,1 +1,1 @@
-{"type":"Topology","arcs":[],"objects":{"test":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[11.1215698,46.0677293],"properties":{"14-04-2022":"Medicinali","15-04-2022":"Ambulanze"}}]}}}
+{"type":"Topology","arcs":[],"objects":{"today":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[11.1215698,46.0677293],"properties":{"14-04-2022":"Medicinali","15-04-2022":"Ambulanze"}}]}}}

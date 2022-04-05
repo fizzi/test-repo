@@ -1,0 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.863810,
+          47.010452
+        ]
+      },
+      "properties": {
+        "country": "Moldavia",
+        "region-province": "",
+        "municipality": "Chisinau",
+        "2022-03-14": "",
+        "2022-03-16": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.205450,
+          48.431650
+        ]
+      },
+      "properties": {
+        "country": "Ucraina",
+        "region-province": "Zakarpattia Oblast",
+        "municipality": "Chop",
+        "2022-03-31": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.434140,
+          47.482780
+        ]
+      },
+      "properties": {
+        "country": "Moldavia",
+        "region-province": "Cantemir District",
+        "municipality": "Leuseni",
+        "2022-03-25": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.914860,
+          48.756001
+        ]
+      },
+      "properties": {
+        "country": "Slovacchia",
+        "region-province": "Košice Region",
+        "municipality": "Michalovce",
+        "2022-03-19": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.628419,
+          51.360276
+        ]
+      },
+      "properties": {
+        "country": "Polonia",
+        "region-province": "Lublin County",
+        "municipality": "Niemce",
+        "2022-03-11": "",
+        "2022-03-14": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.364432,
+          51.273422
+        ]
+      },
+      "properties": {
+        "country": "Polonia",
+        "region-province": "Legnica",
+        "municipality": "Prochowice",
+        "2022-03-03": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.069386,
+          47.951766
+        ]
+      },
+      "properties": {
+        "country": "Romania",
+        "region-province": "Suceava County",
+        "municipality": "Siret",
+        "2022-03-14": "",
+        "2022-03-20": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.834593,
+          47.532653
+        ]
+      },
+      "properties": {
+        "country": "Romania",
+        "region-province": "Suceava County",
+        "municipality": "Suceava",
+        "2022-03-09": "",
+        "2022-03-14": "",
+        "2022-03-14": "",
+        "2022-03-23": ""
+      }
+    }
+  ]
+}

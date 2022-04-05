@@ -5,7 +5,7 @@
   "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
   "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220405_1442_style.json",
   "today": {
-    "topo_json": "https://raw.githubusercontent.com/fizzi/test-repo/main/dpc-ukr-2022-intsup.geojson",
+    "topo_json": "https://dpc-assets.s3.eu-south-1.amazonaws.com/geojson/dpc-ukr-2022-intsup.json",
     "html_descrition": "<p>Per la giornata di oggi, Martedì 5 aprile 2022:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
     "attachment": [
     ]

@@ -1,80 +1,15 @@
 {
-  "style_properties": [
-    {
-      "propertyKey": "Tipo",
-      "properties": [
-        {
-          "property": "color",
-          "values": [
-            {
-              "key": "*",
-              "value": "#8B8000"
-            }
-          ]
-        },
-        {
-          "property": "weight",
-          "values": [
-            {
-              "key": "*",
-              "value": "2"
-            }
-          ]
-        },
-        {
-          "property": "opacity",
-          "values": [
-            {
-              "key": "*",
-              "value": ".6"
-            }
-          ]
-        },
-        {
-          "property": "fillOpacity",
-          "values": [
-            {
-              "key": "*",
-              "value": ".6"
-            }
-          ]
-        },
-        {
-          "property": "fillColor",
-          "values": [
-            {
-              "key": "*",
-              "value": "#ffff00"
-            }
-          ]
-        },
-        ,
-        {
-          "property": "fill",
-          "values": [
-            {
-              "key": "Materiali per campi di accoglienza",
-              "value": "url(./assets/images/tents_traccia.png)"
-            },
-            {
-              "key": "Ambulanze / mezzi",
-              "value": "url(./assets/images/vehicles_traccia.png)"
-            },
-            {
-              "key": "Elevata per rischio idrogeologico / ALLERTA ROSSA",
-              "value": "url(./assets/images/stripe.png)"
-            },
-            {
-              "key": "Ordinaria per rischio temporali / ALLERTA GIALLA",
-              "value": "url(./assets/images/dot.png)"
-            },
-            {
-              "key": "Moderata per rischio temporali / ALLERTA ARANCIONE",
-              "value": "url(./assets/images/dot.png)"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+	"style_properties": [{
+		"propertyKey": "Tipo",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": "Materiali per campi di accoglienza",
+						"value": "url(./assets/images/tents_traccia.png)"
+					}
+				]
+			}
+		]
+	}]
 }

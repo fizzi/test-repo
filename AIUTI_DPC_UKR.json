@@ -3,7 +3,7 @@
   "date": "2022-04-05",
   "name": "L’assistenza umanitaria nell’ambito del Meccanismo Unionale: gli aiuti del sistema italiano di protezione civile",
   "global_legend": "",
-  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220405_1442_style.json",
+  "style": "https://raw.githubusercontent.com/fizzi/test-repo/main/style.json",
   "today": {
     "topo_json": "https://raw.githubusercontent.com/fizzi/test-repo/main/dpc-ukr-2022-intsup_topo.json",
     "html_descrition": "<p>dpc-ukr-2022-intsup </p>",

@@ -1,7 +1,7 @@
 {
   "style_properties": [
     {
-      "propertyKey": "Paese",
+      "propertyKey": "Tipo",
       "properties": [
         {
           "property": "color",
@@ -45,6 +45,32 @@
             {
               "key": "*",
               "value": "#ffff00"
+            }
+          ]
+        },
+        ,
+        {
+          "property": "fill",
+          "values": [
+            {
+              "key": "Materiali per campi di accoglienza",
+              "value": "url(./assets/images/tents_traccia.png)"
+            },
+            {
+              "key": "Ambulanze / mezzi",
+              "value": "url(./assets/images/vehicles_traccia.png)"
+            },
+            {
+              "key": "Elevata per rischio idrogeologico / ALLERTA ROSSA",
+              "value": "url(./assets/images/stripe.png)"
+            },
+            {
+              "key": "Ordinaria per rischio temporali / ALLERTA GIALLA",
+              "value": "url(./assets/images/dot.png)"
+            },
+            {
+              "key": "Moderata per rischio temporali / ALLERTA ARANCIONE",
+              "value": "url(./assets/images/dot.png)"
             }
           ]
         }

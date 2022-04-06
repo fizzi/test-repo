@@ -7,7 +7,19 @@
 				"values": [{
 						"key": "Materiali per campi di accoglienza",
 						"value": "url(./assets/images/tents_traccia.png)"
-					}
+					},
+					{
+						"key": "Tensostrutture",
+						"value": "url(./assets/images/family_traccia.png)"
+					},
+					{
+						"key": "Ambulanze / mezzi",
+						"value": "url(./assets/images/vehicles_traccia.png)"
+					},
+					{
+						"key": "Medicinali / forniture mediche",
+						"value": "url(./assets/images/healthcare_traccia.png)"
+					}   
 				]
 			}
 		]

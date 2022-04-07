@@ -6,7 +6,7 @@
 				"property": "icon",
 				"values": [{
 						"key": "Materiali e attrezzature campi di accoglienza",
-						"value": "url(./assets/images/tent_traccia_low.png)"
+						"value": "url(./assets/images/tent_traccia_low_new.png)"
 					},
 					{
 						"key": "Tensostrutture",

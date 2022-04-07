@@ -6,19 +6,19 @@
 				"property": "icon",
 				"values": [{
 						"key": "Materiali e attrezzature campi di accoglienza",
-						"value": "url(./assets/images/tents_traccia_30.png)"
+						"value": "url(./assets/images/tents_traccia_30_new.png)"
 					},
 					{
 						"key": "Tensostrutture",
-						"value": "url(./assets/images/family_traccia_30.png)"
+						"value": "url(./assets/images/family_traccia_30_new.png)"
 					},
 					{
 						"key": "Mezzi",
-						"value": "url(./assets/images/vehicles_traccia_30.png)"
+						"value": "url(./assets/images/vehicles_traccia_30_new.png)"
 					},
 					{
 						"key": "Medicinali e forniture mediche",
-						"value": "url(./assets/images/healthcare_traccia_30.png)"
+						"value": "url(./assets/images/first-aid-kit_traccia_30_new.png)"
 					}   
 				]
 			}

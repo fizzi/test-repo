@@ -6,7 +6,7 @@
   "style": "https://raw.githubusercontent.com/fizzi/test-repo/main/style.json",
   "today": {
     "topo_json": "https://raw.githubusercontent.com/fizzi/test-repo/main/dpc-ukr-2022-intsup_topo.json",
-    "html_descrition": "<p>dpc-ukr-2022-intsup </p>",
+    "html_descrition": "<h3>Emergenza Ucraina - Mappa aiuti</h3><p>Dall’inizio dell’emergenza, il Dipartimento della Protezione Civile sta garantendo assistenza umanitaria nel quadro del Meccanismo Unionale di Protezione Civile sia all’Ucraina, sia ai Paesi interessati dai consistenti flussi di profughi in fuga dal conflitto. </p> <p>Sulla base delle richieste di assistenza, il Dipartimento coordina infatti la ricognizione delle risorse disponibili di Regioni, Province Autonome, Enti Locali e Strutture operative e il loro invio nelle località individuate dal Meccanismo come hub logistici per gli aiuti internazionali.</p><p>In corrispondenza dei puntatori riportati sulla mappa è possibile visualizzare il Paese, la località e la data di consegna degli aiuti, una breve descrizione dei materiali inviati e l’indicazione dei soggetti che ne hanno dato disponibilità.</p>",
     "attachment": [
     ]
   }

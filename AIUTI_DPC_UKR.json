@@ -2,7 +2,7 @@
   "type": "first",
   "date": "2022-04-05",
   "name": "L’assistenza umanitaria nell’ambito del Meccanismo Unionale: gli aiuti del sistema italiano di protezione civile",
-  "global_legend": "https://servizio-mappe.protezionecivile.it/assets/images/Legenda_mappa.jpg",
+  "global_legend": "https://servizio-mappe.protezionecivile.it/assets/images/legenda.jpg",
   "style": "https://raw.githubusercontent.com/fizzi/test-repo/main/style.json",
   "today": {
     "topo_json": "https://raw.githubusercontent.com/fizzi/test-repo/main/dpc-ukr-2022-intsup_topo.json",

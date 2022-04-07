@@ -5,7 +5,7 @@
 			{
 				"property": "icon",
 				"values": [{
-						"key": "Materiali per campi di accoglienza",
+						"key": "Materiali e attrezzature campi di accoglienza",
 						"value": "url(./assets/images/tents_traccia_30.png)"
 					},
 					{
@@ -13,11 +13,11 @@
 						"value": "url(./assets/images/family_traccia_30.png)"
 					},
 					{
-						"key": "Ambulanze / mezzi",
+						"key": "Mezzi",
 						"value": "url(./assets/images/vehicles_traccia_30.png)"
 					},
 					{
-						"key": "Medicinali / forniture mediche",
+						"key": "Medicinali e forniture mediche",
 						"value": "url(./assets/images/healthcare_traccia_30.png)"
 					}   
 				]

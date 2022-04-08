@@ -2,7 +2,7 @@
   "type": "first",
   "date": "2022-04-05",
   "name": "L'impegno del sistema italiano di protezione civile nell’assistenza umanitaria",
-  "global_legend": "https://servizio-mappe.protezionecivile.it/assets/images/legenda.jpg",
+  "global_legend": "https://servizio-mappe.protezionecivile.it/assets/images/legenda_finale.png",
   "style": "https://raw.githubusercontent.com/fizzi/test-repo/main/style.json",
   "today": {
     "topo_json": "https://raw.githubusercontent.com/fizzi/test-repo/main/dpc-ukr-2022-intsup_topo.json",
